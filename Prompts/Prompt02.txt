@@ -1,0 +1,1 @@
+I would like to refactor with ICheckoutService including a method Scan that accepts a single char string, and if it equals an SKU ine current rules adds it to a list and returns true

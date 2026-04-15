@@ -1,0 +1,19 @@
+I want to create a supermarket checkout service with the following features:
+
+1. products are identified using Stock Keeping Units, or SKUs set as individual letters of the alphabet (A, B, C, and so on)
+
+2. Our goods are priced individually
+
+3. In addition, some items are subject to special offers as set out below
+
+3a. item ‘A’ costs 50 pounds individually, but we offer 3 for 130 
+
+3b. item ‘B’ costs 30 pounds individually, but we offer 2 for 45 
+
+3b. item ‘C’ costs 20 pounds individually, with no special offers
+
+3d. item ‘D’ costs 15 pounds individually, with no special offers
+
+4. You can qualify for a special offer multiple times
+
+Please help me set up the project structure with c sharp with interfaces and unit tests that satisfies the problem described above.

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SupermarketCheckout.Core/SupermarketCheckout.Core.csproj" />
+  <Project Path="SupermarketCheckout.Tests/SupermarketCheckout.Tests.csproj" />
+</Solution>

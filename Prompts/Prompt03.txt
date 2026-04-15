@@ -1,0 +1,1 @@
+add setup method to CheckoutServiceDefaultRulesUnitTests to set private var checkoutService
